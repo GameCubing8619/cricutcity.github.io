@@ -4,8 +4,7 @@ body
    background-size: cover;
    background-repeat:repeat -y;
 }
-sidenav 
-{
+sidenav {
   width: 130px;
   position: fixed;
   z-index: 1;
