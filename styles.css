@@ -1,1 +1,6 @@
-
+body 
+{
+   background-image: url("pics/.tmp.png");
+   background-size: cover;
+   background-repeat:repeat -y;
+}
