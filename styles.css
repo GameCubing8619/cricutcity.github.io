@@ -74,40 +74,6 @@ h2 {
     flex-wrap: wrap;
 }
 
-.hacks {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.hack {
-    width:450px;
-    padding:10px;
-    margin:15px;
-    margin-bottom:30px;
-    background:#0d0d0d;
-    border-radius:5px;
-    box-shadow:5px 8px #bf00ff;
-}
-
-hack img
-{
-    width: 360px;
-    height: 200px;
-    border: 2px solid darkslateblue;
-    margin-right: 10px;
-    border-radius: 5px;
-    display: block;
-    margin: auto;
-}
-
-download
-{
-    padding:2px;
-    background:#bf00ff;
-    border-radius:5px;
-    box-shadow:5px 8px #0d0d0d;
-}
-
 describe
 {
     height: 100px;
