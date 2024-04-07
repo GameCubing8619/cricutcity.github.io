@@ -4,7 +4,8 @@ body
    background-size: cover;
    background-repeat:repeat -y;
 }
-.sidenav {
+.sidenav
+{
   width: 130px;
   position: fixed;
   z-index: 1;
@@ -15,7 +16,8 @@ body
   padding: 8px 0;
 }
 
-.sidenav a {
+.sidenav a 
+{
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
@@ -23,27 +25,32 @@ body
   display: block;
 }
 
-.sidenav a:hover {
+.sidenav a:hover
+{
   color: #2196F3;
 }
 
-.main {
+.main 
+{
   margin-left: 140px; /* Same width as the sidebar + left position in px */
   font-size: 28px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 
-@media screen and (max-height: 450px) {
+@media screen and (max-height: 450px)
+{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-h1 {
+h1 
+{
     color: #0d0d0d;
     font-size: 25px;
     text-align: center;
 }
 
-.start {
+.start 
+{
     width:650px;
     padding:10px;
     margin:15px;
@@ -55,7 +62,8 @@ h1 {
     margin: auto;
 }
 
-.start pic {
+.start pic
+{
     width: 320px;
     height: 200px;
     border: 2px solid white;
@@ -65,16 +73,19 @@ h1 {
     margin: auto;
 }
 
-h2 {
+h2 
+{
     color: #bf00ff;
     text-align: center;
     flex-wrap: wrap;
 }
-.describe {
+.describe 
+{
     height: 100px;
 }
 
-p {
+p 
+{
     font-family: sans-serif;
     text-align: center;
     font-weight: 700;
